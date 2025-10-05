@@ -1,9 +1,5 @@
 # Steam DRM Checker
 
-https://github.com/As9xm/SteamDRMChecker/releases?spm=a2ty_o01.29997173.0.0.7eb2c921Q0D7ao
-
-
-
 A simple tool to check if a game uses **Steam DRM**, **Denuvo**, or **No protection**.
 
 ## Features
@@ -20,4 +16,6 @@ A simple tool to check if a game uses **Steam DRM**, **Denuvo**, or **No protect
 
 ## Requirements
 - Windows 7 or later
+
+
 
