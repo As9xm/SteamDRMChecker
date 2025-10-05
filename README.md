@@ -1,6 +1,6 @@
 # Steam DRM Checker
 
-https://github.com/yourusername/steam-drm-checker/releases?spm=a2ty_o01.29997173.0.0.7eb2c921Q0D7ao
+https://github.com/As9xm/SteamDRMChecker/releases?spm=a2ty_o01.29997173.0.0.7eb2c921Q0D7ao
 
 
 
